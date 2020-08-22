@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+15 Aug 2020
 
 ### Project Title
 udacity Data Science Nanodegree Project
