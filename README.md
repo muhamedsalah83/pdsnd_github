@@ -2,10 +2,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+udacity Data Science Nanodegree Project
 
 ### Description
-Describe what your project is about and what it does
+Udacity SQL Project: Investigate a Relationship Database For this project, I wrote SQL code and ran SQL queries to answer interesting questions about a relational database related to movie rentals. Built visualizations to showcase the output of queries.
 
 ### Files used
 Include the files used
