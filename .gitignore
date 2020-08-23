@@ -5,4 +5,4 @@
 #C:\Users\hp\Documents\GITHub02\pdsnd_github\washington.csv#
 
 # Ignore csv files
-.csv
+*.csv
